@@ -36,7 +36,10 @@ To ensure the integrity of the analysis, the following cleaning steps were perfo
 
 
 ## Visualization
-- ![Crime By Year](https://github.com/PascalObengPoku/Maryland-Crime-Data/blob/main/visualization/Crime%20By%20Year.png)
+- Crime By Year
+  ![Crime By Year](https://github.com/PascalObengPoku/Maryland-Crime-Data/blob/main/visualization/Crime%20By%20Year.png)
+- Crime Distribution By Type
+  ![Crime Distribution By Type](https://github.com/PascalObengPoku/Maryland-Crime-Data/blob/main/visualization/Total%20Crime%20Rate%20In%20Maryland%20By%20Type.png)
 
 ## Author
 Pascal Obeng-Poku
