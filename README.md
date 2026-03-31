@@ -39,4 +39,10 @@ Pascal Obeng-Poku
 
 Data Analyst
 
+Github: http://github.com/PascalObengPoku
+
+Linkedin: http://Linkedin.com/in/PascalObengPoku
+
+Email: pascalobengpoku [at] gmail [dot] com
+
 
