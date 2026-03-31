@@ -34,6 +34,10 @@ To ensure the integrity of the analysis, the following cleaning steps were perfo
 - **Pandas:** Data manipulation and cleaning.
 - **Matplotlib & Seaborn:** Data visualization.
 
+
+## Visualization
+- ![Crime By Year](https://github.com/PascalObengPoku/Maryland-Crime-Data/blob/main/visualization/Crime%20By%20Year.png)
+
 ## Author
 Pascal Obeng-Poku
 
