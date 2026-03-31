@@ -40,6 +40,8 @@ To ensure the integrity of the analysis, the following cleaning steps were perfo
   ![Crime By Year](https://github.com/PascalObengPoku/Maryland-Crime-Data/blob/main/visualization/Crime%20By%20Year.png)
 - Crime Distribution By Type
   ![Crime Distribution By Type](https://github.com/PascalObengPoku/Maryland-Crime-Data/blob/main/visualization/Total%20Crime%20Rate%20In%20Maryland%20By%20Type.png)
+- Top 5 Dangerous Jurisdictions
+![Top 5 Dangerous Jurisdictions](https://github.com/PascalObengPoku/Maryland-Crime-Data/blob/main/visualization/Top%205%20Dangerous%20Jurisdictions.png)
 
 ## Author
 Pascal Obeng-Poku
